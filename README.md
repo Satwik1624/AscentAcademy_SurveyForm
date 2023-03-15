@@ -5,3 +5,4 @@ Survey form to gather information from the users. This could be feedback, inform
 
 This project has been made as a part of internship program offered by <b>@AscentAcademy</b>.
 
+![image](https://user-images.githubusercontent.com/125944906/225333707-cdd8061d-4f43-4037-b16c-a1584af9175c.png)
